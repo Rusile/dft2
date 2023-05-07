@@ -1,5 +1,4 @@
 import cv2
-import math
 
 input_video_path = 'sample.mp4'
 
